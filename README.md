@@ -5,7 +5,7 @@ Ce projet permet de télécharger automatiquement les données de l'ITU (Interna
 ## 🧾 Fonctionnalités
 
 - Téléchargement des données au format CSV depuis l'API publique de l'ITU.
-- Stockage des informations dans une base de données SQLite avec suivi des dates d'import.
+- Stockage des informations dans une base de données SQL avec suivi des dates d'import.
 - Schéma de base de données conçu pour permettre des analyses dans le temps (ex. : suivi des positions orbitales ou des plages de fréquences).
 - Préparation pour des visualisations futures de type *waterfall chart* ou série temporelle.
 
